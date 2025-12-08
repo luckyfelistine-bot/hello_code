@@ -1,0 +1,13 @@
+{
+  "name": "iris-cosmic-companion-frontend",
+  "version": "1.0.0",
+  "main": "SignIn.tsx",
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "styled-components": "^6.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
